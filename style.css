@@ -20,13 +20,6 @@ body {
   padding: 0 10px;
 }
 
-.section_rating {
-  /* padding: 200px 0; */
-  /* height: 100vh; */
-  /* display: grid; */
-  /* place-content: center; */
-}
-
 .rating {
   background-color: #202630;
   max-width: 400px;
@@ -77,7 +70,7 @@ body {
   cursor: pointer;
 }
 
-.rating_numbers span {
+.num {
   color: hsl(217, 12%, 63%);
   background-color: hsl(213, 19%, 18%);
 }
